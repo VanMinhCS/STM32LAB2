@@ -1,0 +1,3 @@
+../Core/Src/Ex1_to_6.c:12:6:setTimer1	16	static
+../Core/Src/Ex1_to_6.c:16:6:timerRun	4	static
+../Core/Src/Ex1_to_6.c:24:6:display7SEG	16	static
